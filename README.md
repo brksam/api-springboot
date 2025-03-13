@@ -18,7 +18,7 @@ Este projeto contém duas APIs desenvolvidas em **Spring Boot**:
 
 ### 🔹 1. Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/api-springboot.git
+git clone https://github.com/brksam/api-springboot.git
 cd api-springboot
 ```
 
