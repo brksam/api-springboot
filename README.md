@@ -6,7 +6,7 @@ Este projeto contém duas APIs desenvolvidas em **Spring Boot**:
 
 ## 📌 Tecnologias Utilizadas
 - **Java 17**
-- **Spring Boot 3.x**
+- **Spring Boot 3.4.3**
 - **Spring Data JPA**
 - **Spring Web**
 - **H2 Database** (Banco de dados em memória para testes)
